@@ -1,0 +1,1 @@
+<?php return $mysqli = new mysqli('localhost', 'root', '', 'admibifi'); ?>
